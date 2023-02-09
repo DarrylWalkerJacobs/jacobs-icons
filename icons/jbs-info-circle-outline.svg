@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+  <g class="jbs-info-circle-outline" clip-path="url(#a)">
+    <path fill-rule="evenodd" d="M15 8A7 7 0 1 1 1 8a7 7 0 0 1 14 0Zm1 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0ZM8.5 5.333V4h-1v1.333h1Zm0 1.334V12h-1V6.667h1Z" class="icon" clip-rule="evenodd"/>
+  </g>
+  <defs>
+    <clipPath id="a" class="a">
+      <path d="M0 0h16v16H0z"/>
+    </clipPath>
+  </defs>
+</svg>

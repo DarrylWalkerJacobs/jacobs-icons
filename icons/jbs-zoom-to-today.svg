@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+  <g class="jbs-zoom-to-today">
+    <path fill-rule="evenodd" d="M4 4v1h1V4h6v1h1V4h2v2H2V4h2Zm1-1h6V2h1v1h3v12H1V3h3V2h1v1ZM2 7h12v7H2V7Zm2 4V9h2v2H4Zm-1 1V8h4v4H3Z" class="icon" clip-rule="evenodd"/>
+  </g>
+</svg>

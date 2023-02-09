@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+  <g class="jbs-zoom-out">
+    <path fill-rule="evenodd" d="M7 12A5 5 0 1 0 7 2a5 5 0 0 0 0 10Zm0 1c1.477 0 2.83-.534 3.874-1.418l3.772 3.771.708-.707-3.772-3.772A6 6 0 1 0 7 13ZM4 7.5h6v-1H4v1Z" class="icon" clip-rule="evenodd"/>
+  </g>
+</svg>

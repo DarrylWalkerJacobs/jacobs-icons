@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+  <g class="jbs-fit-all-tasks">
+    <path fill-rule="evenodd" d="M1.5 1h4.266v1H2.707l3.647 3.646-.708.708L2 2.707v3.059H1V1h.5Zm13 0h-4.266v1h3.059L9.646 5.646l.708.708L14 2.707v3.059h1V1h-.5Zm.5 9.234V15h-4.766v-1h3.06l-3.648-3.646.708-.708L14 13.293v-3.059h1ZM1 14.5v-4.266h1v3.059l3.646-3.647.708.707L2.707 14h3.059v1H1v-.5Z" class="icon" clip-rule="evenodd"/>
+  </g>
+</svg>

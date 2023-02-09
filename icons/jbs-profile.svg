@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+  <g class="jbs-profile">
+    <path fill-rule="evenodd" d="M8 15c1.37 0 2.648-.394 3.727-1.074a4.401 4.401 0 00-7.438.01A6.968 6.968 0 008 15zm2.962-3.239c.63.411 1.165.947 1.573 1.572a7 7 0 10-9.054.013 5.402 5.402 0 017.481-1.585zM16 8A8 8 0 110 8a8 8 0 0116 0zM6.014 6.624a2 2 0 114 0 2 2 0 01-4 0zm2-3a3 3 0 100 6 3 3 0 000-6z" class="icon" clip-rule="evenodd"/>
+  </g>
+</svg>

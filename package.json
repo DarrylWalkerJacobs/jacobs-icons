@@ -1,0 +1,17 @@
+{
+  "name": "jacobs-icons",
+  "version": "1.0.0",
+  "description": "Jacobs Icons set",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "icons",
+    "jacobs",
+    "jbs",
+    "design-system"
+  ],
+  "author": "Damian Ryan",
+  "license": "ISC"
+}

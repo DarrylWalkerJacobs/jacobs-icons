@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" viewBox="0 0 16 16">
+  <g class="jbs-filters">
+    <g class="Group 218">
+      <path fill-rule="evenodd" d="M6 3H5v1h1V3zM5 2a1 1 0 00-1 1H0v1h4a1 1 0 001 1h1a1 1 0 001-1V3a1 1 0 00-1-1H5zm5 5.5H9v1h1v-1zm-2 1a1 1 0 001 1h1a1 1 0 001-1v-1a1 1 0 00-1-1H9a1 1 0 00-1 1H0v1h8zM3 12h1v1H3v-1zm0 2a1 1 0 01-1-1H0v-1h2a1 1 0 011-1h1a1 1 0 011 1v1a1 1 0 01-1 1H3zM9 4h7V3H9v1zm7 4.5h-3v-1h3v1zM7 13h9v-1H7v1z" class="icon" clip-rule="evenodd"/>
+    </g>
+  </g>
+</svg>
