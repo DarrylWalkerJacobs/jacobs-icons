@@ -1,17 +1,22 @@
 {
   "name": "jacobs-icons",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Jacobs Icons set",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "icons",
-    "jacobs",
     "jbs",
+    "jacobs",
+    "icons",
     "design-system"
   ],
   "author": "Damian Ryan",
-  "license": "ISC"
+  "contributors": [
+    "Robert Donegan"
+  ],
+  "publishConfig": {
+    "registry": "https://pkgs.dev.azure.com/JacobsDigital/DesignSystem/_packaging/Jacobs-Icons/npm/registry/"
+  }
 }

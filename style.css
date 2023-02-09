@@ -1,0 +1,125 @@
+.jbs {
+  width: 24px;
+  height: 24px;
+  display: inline-block;
+}
+
+.jbs-arrow-double-head {
+  background-image: url("./icons/jbs-arrow-double-head.svg");
+}
+
+.jbs-arrow-green {
+  background-image: url("./icons/jbs-arrow-green.svg");
+}
+
+.jbs-arrow-amber {
+  background-image: url("./icons/jbs-arrow-amber.svg");
+}
+
+.jbs-arrow-red {
+  background-image: url("./icons/jbs-arrow-red.svg");
+}
+
+.jbs-arrow-open {
+  background-image: url("./icons/jbs-arrow-open.svg");
+}
+
+.jbs-arrow-down {
+  background-image: url("./icons/jbs-arrow-down.svg");
+}
+
+.jbs-arrow-up {
+  background-image: url("./icons/jbs-arrow-up.svg");
+}
+
+.jbs-baseline {
+  background-image: url("./icons/jbs-baseline.svg");
+}
+
+.jbs-calendar-form {
+  background-image: url("./icons/jbs-calendar-form.svg");
+}
+
+.jbs-cancel {
+  background-image: url("./icons/jbs-cancel.svg");
+}
+
+.jbs-collapse-nav {
+  background-image: url("./icons/jbs-collapse-nav.svg");
+}
+
+.jbs-diamond-line-fill {
+  background-image: url("./icons/jbs-diamond-line-fill.svg");
+}
+
+.jbs-expand {
+  background-image: url("./icons/jbs-expand.svg");
+}
+
+.jbs-filters {
+  background-image: url("./icons/jbs-filters.svg");
+}
+
+.jbs-fit-all-tasks {
+  background-image: url("./icons/jbs-fit-all-tasks.svg");
+}
+
+.jbs-info-circle-outline {
+  background-image: url("./icons/jbs-info-circle-outline.svg");
+}
+
+.jbs-miletones {
+  background-image: url("./icons/jbs-milestones.svg");
+}
+
+.jbs-overflow-menu {
+  background-image: url("./icons/jbs-overflow-menu.svg");
+}
+
+.jbs-percentage {
+  background-image: url("./icons/jbs-percentage.svg");
+}
+
+.jbs-plus {
+  background-image: url("./icons/jbs-plus.svg");
+}
+
+.jbs-profile {
+  background-image: url("./icons/jbs-profile.svg");
+}
+
+.jbs-question-circle-outline {
+  background-image: url("./icons/jbs-question-circle-outline.svg");
+}
+
+.jbs-search {
+  background-image: url("./icons/jbs-search.svg");
+}
+
+.jbs-settings {
+  background-image: url("./icons/jbs-settings.svg");
+}
+
+.jbs-tick {
+  background-image: url("./icons/jbs-tick.svg");
+}
+
+.jbs-toggle-down {
+  background-image: url("./icons/jbs-toggle-down.svg");
+}
+
+.jbs-toggle-up {
+  background-image: url("./icons/jbs-toggle-up.svg");
+}
+
+.jbs-zoom-in {
+  background-image: url("./icons/jbs-zoom-in.svg");
+}
+
+.jbs-zoom-out {
+  background-image: url("./icons/jbs-zoom-out.svg");
+}
+
+.jbs-zoom-to-today {
+  background-image: url("./icons/jbs-zoom-to-today.svg");
+}
