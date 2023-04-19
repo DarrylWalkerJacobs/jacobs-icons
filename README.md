@@ -26,7 +26,7 @@ legacy-peer-deps=true
 Once done you can run the below to install this library into your project.
 
 ```zsh
-npm install jacobs-icons
+npm install jacobs-icons@latest
 ```
 
 You must also set up similar permission for your deployment pipeline.
