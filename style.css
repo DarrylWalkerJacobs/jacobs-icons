@@ -1,7 +1,10 @@
 .jbs {
-  width: 24px;
-  height: 24px;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
   display: inline-block;
+  width: 1em;
+  height: 1em;
 }
 
 .jbs-arrow-double-head {
