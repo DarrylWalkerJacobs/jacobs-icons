@@ -1,5 +1,3 @@
-import "./style.css";
-
 export { default as JbsArrowRed } from "./icons/jbs-arrow-red.svg";
 export { default as JbsArrowAmber } from "./icons/jbs-arrow-amber.svg";
 export { default as JbsArrowGreen } from "./icons/jbs-arrow-green.svg";

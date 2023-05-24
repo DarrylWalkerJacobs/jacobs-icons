@@ -18,5 +18,6 @@
   ],
   "publishConfig": {
     "registry": "https://pkgs.dev.azure.com/JacobsDigital/DesignSystem/_packaging/Jacobs-Icons/npm/registry/"
-  }
+  },
+  "types": "types.d.ts"
 }
