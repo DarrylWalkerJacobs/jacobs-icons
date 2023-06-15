@@ -14,7 +14,8 @@
   ],
   "author": "Damian Ryan",
   "contributors": [
-    "Robert Donegan"
+    "Robert Donegan",
+    "Robert Fyfe"
   ],
   "publishConfig": {
     "registry": "https://pkgs.dev.azure.com/JacobsDigital/DesignSystem/_packaging/Jacobs-Icons/npm/registry/"
@@ -22,6 +23,7 @@
   "types": "types.d.ts",
   "devDependencies": {
     "@svgr/cli": "^8.0.1",
+    "@svgr/webpack": "^8.0.1",
     "@types/react": "^18.2.12"
   }
 }
