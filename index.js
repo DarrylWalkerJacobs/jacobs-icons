@@ -28,3 +28,67 @@ export { default as JbsToggleUp } from "./icons/jbs-toggle-up.svg";
 export { default as JbsZoomIn } from "./icons/jbs-zoom-in.svg";
 export { default as JbsZoomOut } from "./icons/jbs-zoom-out.svg";
 export { default as JbsZoomToToday } from "./icons/jbs-zoom-to-today.svg";
+
+const JbsArrowRed = require("./icons/jbs-arrow-red.svg");
+const JbsArrowAmber = require("./icons/jbs-arrow-amber.svg");
+const JbsArrowGreen = require("./icons/jbs-arrow-green.svg");
+const JbsArrowDoubleHead = require("./icons/jbs-arrow-double-head.svg");
+const JbsArrowDown = require("./icons/jbs-arrow-down.svg");
+const JbsArrowUp = require("./icons/jbs-arrow-up.svg");
+const JbsArrowOpen = require("./icons/jbs-arrow-open.svg");
+const JbsBaseline = require("./icons/jbs-baseline.svg");
+const JbsCalendarForm = require("./icons/jbs-calendar-form.svg");
+const JbsCancel = require("./icons/jbs-cancel.svg");
+const JbsCollapseNav = require("./icons/jbs-collapse-nav.svg");
+const JbsDiamondLineFill = require("./icons/jbs-diamond-line-fill.svg");
+const JbsExpand = require("./icons/jbs-expand.svg");
+const JbsFilters = require("./icons/jbs-filters.svg");
+const JbsFitAllTasks = require("./icons/jbs-fit-all-tasks.svg");
+const JbsInfoCircleOutline = require("./icons/jbs-info-circle-outline.svg");
+const JbsMilestones = require("./icons/jbs-milestones.svg");
+const JbsOverflowMenu = require("./icons/jbs-overflow-menu.svg");
+const JbsPercentage = require("./icons/jbs-percentage.svg");
+const JbsPlus = require("./icons/jbs-plus.svg");
+const JbsProfile = require("./icons/jbs-profile.svg");
+const JbsQuestionCircleOutline = require("./icons/jbs-question-circle-outline.svg");
+const JbsSearch = require("./icons/jbs-search.svg");
+const JbsSettings = require("./icons/jbs-settings.svg");
+const JbsTick = require("./icons/jbs-tick.svg");
+const JbsToggleDown = require("./icons/jbs-toggle-down.svg");
+const JbsToggleUp = require("./icons/jbs-toggle-up.svg");
+const JbsZoomIn = require("./icons/jbs-zoom-in.svg");
+const JbsZoomOut = require("./icons/jbs-zoom-out.svg");
+const JbsZoomToToday = require("./icons/jbs-zoom-to-today.svg");
+
+module.exports = {
+  JbsArrowRed,
+  JbsArrowAmber,
+  JbsArrowGreen,
+  JbsArrowDoubleHead,
+  JbsArrowDown,
+  JbsArrowUp,
+  JbsArrowOpen,
+  JbsBaseline,
+  JbsCalendarForm,
+  JbsCancel,
+  JbsCollapseNav,
+  JbsDiamondLineFill,
+  JbsExpand,
+  JbsFilters,
+  JbsFitAllTasks,
+  JbsInfoCircleOutline,
+  JbsMilestones,
+  JbsOverflowMenu,
+  JbsPercentage,
+  JbsPlus,
+  JbsProfile,
+  JbsQuestionCircleOutline,
+  JbsSearch,
+  JbsSettings,
+  JbsTick,
+  JbsToggleDown,
+  JbsToggleUp,
+  JbsZoomIn,
+  JbsZoomOut,
+  JbsZoomToToday,
+};
