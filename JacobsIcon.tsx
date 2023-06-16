@@ -1,8 +1,7 @@
 import React from "react";
-
-import { ReactComponent as JbsArrowRed } from "./icons/jbs-arrow-red.svg";
-import { ReactComponent as JbsArrowAmber } from "./icons/jbs-arrow-amber.svg";
-import { ReactComponent as JbsArrowGreen } from "./icons/jbs-arrow-green.svg";
+import { ReactComponent as JbsArrowRed } from "jacobs-icons/icons/jbs-arrow-red.svg";
+import { ReactComponent as JbsArrowAmber } from "jacobs-icons/icons/jbs-arrow-amber.svg";
+import { ReactComponent as JbsArrowGreen } from "jacobs-icons/icons/jbs-arrow-green.svg";
 
 interface Props {
   icon: string;
