@@ -1,9 +1,23 @@
+const path = require("path");
+
 module.exports = {
   module: {
     rules: [
       {
         test: /\.svg$/,
-        use: ["@svgr/webpack"],
+        use: [
+          {
+            loader: "@svgr/webpack",
+            options: {
+              svgoConfig: {
+                plugins: {
+                  removeViewBox: false,
+                },
+              },
+            },
+          },
+          "file-loader",
+        ],
       },
     ],
   },
