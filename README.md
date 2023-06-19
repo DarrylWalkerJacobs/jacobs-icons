@@ -6,32 +6,24 @@ Jacobs Icons is a lightweight private npm library which allows you to use icons 
 
 ### Prerequisites
 
-You must have an `.npmrc` file in the repository you wish to use Jacobs Icons. You can use the `.npmrc.example` file in this repo to get started or use the code below:
+None
 
-```
-registry=https://pkgs.dev.azure.com/JacobsDigital/DesignSystem/_packaging/Jacobs-Icons/npm/registry/
-                        
-always-auth=true
-legacy-peer-deps=true
-
-; begin auth token
-//pkgs.dev.azure.com/JacobsDigital/DesignSystem/_packaging/Jacobs-Icons/npm/registry/:username=YOURUSERNAME
-//pkgs.dev.azure.com/JacobsDigital/DesignSystem/_packaging/Jacobs-Icons/npm/registry/:_password=YOURBASE64HASH
-//pkgs.dev.azure.com/JacobsDigital/DesignSystem/_packaging/Jacobs-Icons/npm/registry/:email=YOUREMAIL
-//pkgs.dev.azure.com/JacobsDigital/DesignSystem/_packaging/Jacobs-Icons/npm/:username=YOURUSERNAME
-//pkgs.dev.azure.com/JacobsDigital/DesignSystem/_packaging/Jacobs-Icons/npm/:_password=YOURBASE64HASH
-//pkgs.dev.azure.com/JacobsDigital/DesignSystem/_packaging/Jacobs-Icons/npm/:email=YOUREMAIL
-; end auth token
-```
-Once done you can run the below to install this library into your project.
+### How to install
 
 ```zsh
-npm install jacobs-icons@latest
+npm install @jacobsdigitalfactory/jacobs-icons@latest
+```
+
+For Yarn please use
+
+```zsh
+yarn add @jacobsdigitalfactory/jacobs-icons@latest
 ```
 
 You must also set up similar permission for your deployment pipeline.
 
 ## Usage
+
 If you're running a React based application you can use the Icons as components below is how you can do this.
 
 ```typescript
@@ -41,11 +33,15 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={JbsArrowAmber} className="your-class" alt="Arrow Amber Icon" />
+        <img
+          src={JbsArrowAmber}
+          className="your-class"
+          alt="Arrow Amber Icon"
+        />
       </header>
     </div>
   );
-}
+};
 
 export default App;
 ```
@@ -61,14 +57,11 @@ const App = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <i
-          className="jbs jbs-miletones"
-          style={{ fontSize: "100px" }}
-        />
+        <i className="jbs jbs-miletones" style={{ fontSize: "100px" }} />
       </header>
     </div>
   );
-}
+};
 
 export default App;
 ```

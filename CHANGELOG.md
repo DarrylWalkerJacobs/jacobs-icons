@@ -4,17 +4,19 @@
 
 Release notes for each version of Jacobs Icons are documented in this file.
 
-Release schedule is TBD.
+Release schedule is 'None'.
 
-## [1.1.0] - 2023-02-10
-## [1.1.3] - 2023-04-19
+## [1.1.13] - 2023-04-19
 
-## [Unreleased]
+## [1.1.22] - 2023-04-20
 
 Current icon set available
 
 ### Added
-## [1.1.3] - Added better handling for icons utilising font sizes when using CSS and classes.
+
+## [1.1.13] - Added icons and basic access point to css and icons for JSX based applications.
+
+## [1.1.22] - Added support via webpack for Next.JS applications.
 
 ### Changed
 
@@ -23,5 +25,7 @@ Current icon set available
 ### Removed
 
 ### Fixed
+
+## [1.1.22] - Fixed access issues where Next.JS applications threw several errors for SVG components.
 
 ### Security
