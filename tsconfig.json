@@ -17,6 +17,6 @@
     "forceConsistentCasingInFileNames": true,
     "declaration": true
   },
-  "include": ["*"],
+  "include": ["types.d.ts", "*.ts", "*.tsx", "jest.config.js"],
   "exclude": ["node_modules"]
 }
