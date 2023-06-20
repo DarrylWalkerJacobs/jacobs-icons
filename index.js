@@ -28,8 +28,10 @@ import JbsToggleUp from "./icons/jbs-toggle-up.svg";
 import JbsZoomIn from "./icons/jbs-zoom-in.svg";
 import JbsZoomOut from "./icons/jbs-zoom-out.svg";
 import JbsZoomToToday from "./icons/jbs-zoom-to-today.svg";
+import JacobsIcon from "./JacobsIcon";
 
 export {
+  JacobsIcon,
   JbsArrowRed,
   JbsArrowAmber,
   JbsArrowGreen,
